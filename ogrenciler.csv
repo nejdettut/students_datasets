@@ -1,0 +1,51 @@
+sorgu,isim,sehir,bolum,puan,numara,cinsiyet
+1,Ahmet Yılmaz,İstanbul,Bilgisayar Mühendisliği,85,1001,Erkek
+2,Ayşe Kaya,Ankara,Elektrik Mühendisliği,92,1002,Kadın
+3,Mehmet Demir,İzmir,Makine Mühendisliği,78,1003,Erkek
+4,Fatma Şahin,Bursa,Kimya,65,1004,Kadın
+5,Ali Çelik,Adana,Matematik,88,1005,Erkek
+6,Zeynep Öztürk,Antalya,Fizik,73,1006,Kadın
+7,Hasan Arslan,Konya,Hukuk,95,1007,Erkek
+8,Elif Koç,Mersin,Tıp,99,1008,Kadın
+9,Yusuf Aydın,Trabzon,Biyoloji,60,1009,Erkek
+10,Merve Aksoy,Samsun,Psikoloji,82,1010,Kadın
+11,İbrahim Can,Kayseri,İnşaat Mühendisliği,77,1011,Erkek
+12,Selin Erdem,Eskişehir,Endüstri Mühendisliği,91,1012,Kadın
+13,Ömer Faruk,Denizli,Mimarlık,84,1013,Erkek
+14,Buse Özdemir,Sakarya,Sosyoloji,68,1014,Kadın
+15,Emre Korkmaz,Gaziantep,Yazılım Mühendisliği,90,1015,Erkek
+16,Ece Aydın,Aydın,İşletme,79,1016,Kadın
+17,Kaan Şimşek,Manisa,Tarih,62,1017,Erkek
+18,Derya Türk,Balıkesir,İktisat,87,1018,Kadın
+19,Burak Özcan,Kocaeli,Jeoloji,74,1019,Erkek
+20,Seda Kaplan,Hatay,Grafik Tasarım,93,1020,Kadın
+21,Mert Doğan,Malatya,Gıda Mühendisliği,70,1021,Erkek
+22,Aslıhan Güzel,Muğla,Turizm,81,1022,Kadın
+23,Furkan Ak,Şanlıurfa,Ziraat Mühendisliği,67,1023,Erkek
+24,Ceren Kara,Diyarbakır,Edebiyat,89,1024,Kadın
+25,Oğuzhan Şen,Çanakkale,Felsefe,76,1025,Erkek
+26,Tuğba Yiğit,Erzurum,Hemşirelik,94,1026,Kadın
+27,Barış Çetin,Sivas,Diş Hekimliği,83,1027,Erkek
+28,Nazlı Ateş,Ordu,Veterinerlik,71,1028,Kadın
+29,Enes Polat,Kahramanmaraş,Spor Bilimleri,66,1029,Erkek
+30,İpek Çınar,Rize,İletişim,98,1030,Kadın
+31,Caner Güneş,Tekirdağ,Otomotiv Mühendisliği,75,1031,Erkek
+32,Melike Soyadı,Edirne,Çevre Mühendisliği,86,1032,Kadın
+33,Tolga Yıldız,Kırıkkale,Enerji Sistemleri,80,1033,Erkek
+34,Serra Aktaş,Bilecik,Moda Tasarımı,69,1034,Kadın
+35,Kerem Bulut,Zonguldak,Maden Mühendisliği,72,1035,Erkek
+36,Aylin Keskin,Uşak,Çocuk Gelişimi,96,1036,Kadın
+37,Hakan Taş,Yozgat,Coğrafya,63,1037,Erkek
+38,Beren Öz,Kütahya,Dilbilim,88,1038,Kadın
+39,Onur Kılıç,Afyon,Kimya Mühendisliği,77,1039,Erkek
+40,Esra Durmaz,Giresun,Halkla İlişkiler,91,1040,Kadın
+41,Berkay Aslan,Çorum,Makine Teknolojisi,64,1041,Erkek
+42,Simge Erkan,Kastamonu,Biyomedikal Mühendisliği,85,1042,Kadın
+43,Yiğit Kara,Sinop,Denizcilik,78,1043,Erkek
+44,Gülşah Ekinci,Bartın,Peyzaj Mimarlığı,92,1044,Kadın
+45,Arda Özer,Karabük,Metalurji Mühendisliği,70,1045,Erkek
+46,Pelin Akın,Isparta,Müzik,97,1046,Kadın
+47,Umut Şahin,Kırşehir,Fizyoterapi,81,1047,Erkek
+48,Rüya Çelik,Amasya,Resim,89,1048,Kadın
+49,Koray Uçar,Bolu,Elektronik Mühendisliği,73,1049,Erkek
+50,Lara Toprak,Van,Arkeoloji,90,1050,Kadın
